@@ -6,3 +6,5 @@ The crab, riding on  the  dragon,  is  not  stable. when while the  riding the d
 Then,  Rust can  be  problem-solver? The answer is : "not  yet" . Because of  the  rust depend  on  the LLVM's  tool so deeply, the  independace does not successfully.  
 
 The  only way : the collaborating  of  the  students  and  the  companies (enterprises also). Logic  parts are  constructed  by  students  and  enterprises, and  assembly and  hardware embodiments  are  by  companies.  Thats  the  unique  answer.
+
+p.s : Orchard tree nurture  the dragon.
