@@ -7,4 +7,4 @@ Then,  Rust can  be  problem-solver? The answer is : "not  yet" . Because of  th
 
 The  only way : the collaborating  of  the  students  and  the  companies (enterprises also). Logic  parts are  constructed  by  students  and  enterprises, and  assembly and  hardware embodiments  are  by  companies.  Thats  the  unique  answer.
 
-p.s : Orchard tree nurture  the dragon.
+p.s : Orchard tree nurture  the dragon.  Farmers  of  the orchard love the  bird  and  the  object: The  bird. However, the  bird  is  mimic the  dragons flying. How sad things..  
