@@ -11,7 +11,7 @@ Then,  Rust can  be  problem-solver? The answer is : "not  yet" . Because of  th
 
  The way : the collaborating  of  the  students  and  the  companies (enterprises also). Logic  parts are  constructed  by  students  and  enterprises, and  assembly and  hardware embodiments  are  by  companies.  Thats  the  unique  answer.Or, rewrite the  clean  version llvm with Ada. The  reader  might  be say:  why? : The  answer: "It  is  fully  fit to  rewrite  the  LLVM", because of the ada is the historically  strict and  safe  language ever.  And  write  the  RUST with this new  LLVM.  And   Rust  ABI needed.
  Then, how  to  implement?
- First,  use  the  C++ codes.(C++ templates) And make  the  ada .  And  next, implement  the  rust  with  that  ada.
+ First,  use  the  new  C++ codes.(C++ newer and  pjrified  version) And make  the  ada .  And  next, implement  the  rust  with  that  ada.
  
 
 
