@@ -18,3 +18,30 @@ Then,  Rust can  be  problem-solver? The answer is : "not  yet" . Because of  th
 p.s : Orchard tree nurture  the dragon.  Farmers  of  the orchard love the  bird  and  the  object: The  bird. However, the  bird  is  mimic the  dragons flying. How sad things..  
 
 
+---------------------------
+C++'s limitation
+#include <iostream>
+
+template<long int N,long  int... M>
+struct UltimatePurifier {
+    static constexpr long int value = N + UltimatePurifier<N-1, N, M...>::value;
+};
+template<long int... M>
+struct UltimatePurifier<0, M...> {
+    static constexpr long  int value = sizeof...(M);
+};
+template<typename T>
+struct CommitteeBrainstorming {
+    using Next = CommitteeBrainstorming<CommitteeBrainstorming<T>>; 
+};
+int main() {
+     constexpr auto chaos = UltimatePurifier<50, 1>::value; 
+     using Doom = CommitteeBrainstorming<int>::Next::Next::Next::Next; 
+
+    std::cout << "Starting the purification of the dragon..." << std::endl;
+    std::cout << "If this prints, the compiler is surprisingly resilient. " << std::endl;
+    std::cout << "Purification Status: [In Progress - Dragon is Screaming]" << std::endl;
+
+    return 0;
+}
+    
