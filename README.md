@@ -20,3 +20,13 @@ p.s : Orchard tree nurture  the dragon.  Farmers  of  the orchard love the  bird
 ***C++'s limitation***
 --------------------
 template, class
+
+
+
+**Prediction  to  how  to  fall  down  the  world**
+1. physical AI falut(might  be  LLVM optimization bugs.).
+2. Robot solution  companies could  not  belief  LLVM).
+3. LLVM makers  image and  branding  power  attacked(reducing its  own  power).
+4. Big  techs LLVM failure  and  its  built  app  halt.
+5. Banking  Services  and  Government system operation stopped..
+6. etc .
