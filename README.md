@@ -10,7 +10,7 @@ The crab, riding on  the  dragon,  is  not  stable. when while the  riding the d
 Then,  Rust can  be  problem-solver? The answer is : "not  yet" . Because of  the  rust depend  on  the LLVM's  tool so deeply, the  independace does not successfully. 
  The dragon  might still  flying...but the  its exhaustion is getting  closer. It scraping  the  sky, cloud etc. 
 
- We  must give breathe to the  dragon. 
+ We  must give breathe to the  dragon. Delete  the  optimization  pass and  path . And  also,  replace the  IR  to  more  simple  ways.   
 
  The way : the collaborating  of  the  students  and  the  companies (enterprises also). Logic  parts are  constructed  by  students  and  enterprises, and  assembly and  hardware embodiments  are  by  companies.  Thats  the  unique  answer.Or, rewrite the  clean  version llvm with Ada. The  reader  might  be say:  why? : The  answer: "It  is  fully  fit to  rewrite  the  LLVM", because of the ada is the historically  strict and  safe  language ever.  And  write  the  RUST with this new  LLVM.  And   Rust  ABI needed.
  Then, how  to  implement?
